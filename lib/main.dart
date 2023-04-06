@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
   getUniqueLanguage() async {
     simpleLang = "";
     String phrase = controller.text;
-    if(controller.text == "") return;
+    if(phrase == "") return;
     final langage = await _languageIdentifier.identifyLanguage(phrase);
     setState(() {
       simpleLang = langage;
