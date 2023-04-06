@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294821950870",
+    "project_id": "mldigitalschool",
+    "storage_bucket": "mldigitalschool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294821950870:android:b815a5a751448684b519b7",
+        "android_client_info": {
+          "package_name": "com.example.mldisgitalschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294821950870-jj4acsn66tsrp41jilnn98rpk8tf7oih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgHO30thQIYNcJMhSZmbLxphD-dXbdgnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294821950870-jj4acsn66tsrp41jilnn98rpk8tf7oih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
